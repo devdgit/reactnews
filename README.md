@@ -1,6 +1,5 @@
 # NEWS-REACTJS
 
-[LIVE DEMO](https://final-news-app.herokuapp.com/)
 
 <br>
 
